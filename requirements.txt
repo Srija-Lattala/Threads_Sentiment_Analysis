@@ -4,5 +4,7 @@ nltk==3.8.1
 spacy==3.6.1
 scikit-learn==1.6.1
 joblib==1.3.1
-spacy>=3.6.1 
+thinc>=8.1.0,<8.2.0
+numpy>=1.21.6,<1.26.0  # Explicitly limit NumPy version
+scipy>=1.7.3,<1.11.0  # Explicitly limit SciPy version
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz
