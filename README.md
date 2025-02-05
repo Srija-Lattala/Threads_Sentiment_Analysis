@@ -50,4 +50,4 @@ Contributions are welcome! Feel free to open issues or pull requests for bug fix
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
